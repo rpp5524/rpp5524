@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**rpp5524/rpp5524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Rohan! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I thrive on solving complex problems and learning new skills. I am always eager to collaborate on innovative projects and ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- **Languages**: [Python, JavaScript, Java, C/C++, Rust, CUDA C, R]
+- **Frameworks/Technologies**: [TensorFlow, PyTorch, LangChain, LangGraph, React, Node.js, Django]
+- **Tools**: [Git, Docker, Jenkins, Kubernetes]
+- **Databases**: [MySQL, MongoDB, PostgreSQL]
+
+## 🌱 I’m currently learning
+
+- [What you're currently learning]
+- [Any particular technology, framework, or concept you're focused on]
+
+## ✨ Interests
+
+- [Non-professional interests or hobbies]
+- [Any specific sectors within technology or outside it that you are passionate about]
+
+## ⚡ Fun fact:
+
+- [A fun fact about you, or a hobby you enjoy]
+
+
+
