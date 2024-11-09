@@ -10,19 +10,5 @@ Welcome to my GitHub! I thrive on solving complex problems and learning new skil
 - **Tools**: Git, Docker, Jenkins, Kubernetes
 - **Databases**: MySQL, MongoDB, PostgreSQL
 
-## 🌱 I’m currently learning
-
-- [What you're currently learning]
-- [Any particular technology, framework, or concept you're focused on]
-
-## ✨ Interests
-
-- [Non-professional interests or hobbies]
-- [Any specific sectors within technology or outside it that you are passionate about]
-
-## ⚡ Fun fact:
-
-- [A fun fact about you, or a hobby you enjoy]
-
 
 
