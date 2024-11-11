@@ -5,10 +5,10 @@ Welcome to my GitHub! I thrive on solving complex problems and learning new skil
 
 ## 🛠 Skills
 
-- **Languages**: Python, JavaScript, Java, C/C++, Rust, CUDA C, R
-- **Frameworks/Technologies**: TensorFlow, PyTorch, LangChain, LangGraph, React, Django, Opentelemetry
-- **Tools**: Git, Docker, Jenkins, Kubernetes
-- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Languages**: Python, JavaScript, Go, Java, C/C++, Rust, CUDA C, R
+- **Frameworks/Technologies**: TensorFlow, PyTorch, LangChain, LangGraph, React, Django, Opentelemetry, Autogen, CrewAI, PromptFlow
+- **Tools**: Git, Docker, Jenkins, Kubernetes, AWS
+- **Databases**: MySQL, MongoD
 
 
 
